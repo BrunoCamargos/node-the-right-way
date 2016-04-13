@@ -12,5 +12,8 @@
     "js"
   ],
   "author": "Bruno Camargos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zmq": "^2.14.0"
+  }
 }
